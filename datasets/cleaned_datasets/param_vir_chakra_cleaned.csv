@@ -1,21 +1,21 @@
-Name,Service/Unit,Year,Posthumous,Reason/Conflict
-Major Somnath Sharma,"Indian Army, 4 Kumaon",1947,Yes,1947 Indo-Pak War (Battle of Badgam); displayed extreme bravery defending Srinagar airfield against heavy odds.
-Naik Jadunath Singh,"Indian Army, 1 Rajput",1948,Yes,1947 Indo-Pak War (Tain Dhar); single-handedly held his post against multiple waves of attackers.
-Second Lieutenant Rama Raghoba Rane,"Indian Army, Bombay Sappers",1948,No,1947 Indo-Pak War; cleared minefields and roadblocks under heavy enemy fire to aid advancing tanks.
-Company Havildar Major Piru Singh,"Indian Army, 6 Rajputana Rifles",1948,Yes,1947 Indo-Pak War (Tithwal); destroyed enemy bunkers single-handedly despite being critically wounded.
-Lance Naik Karam Singh,"Indian Army, 1 Sikh",1948,No,1947 Indo-Pak War (Tithwal); held out against overwhelming numbers despite being wounded multiple times.
-Captain Gurbachan Singh Salaria,"Indian Army, 3/1 Gorkha Rifles",1961,Yes,Congo Crisis (UN Mission); launched a fierce charge to clear a vital roadblock against heavily armed rebels.
-Major Dhan Singh Thapa,"Indian Army, 1/8 Gorkha Rifles",1962,No,1962 Sino-Indian War (Pangong Lake); repulsed three waves of intense attacks before being overpowered.
-Major Shaitan Singh,"Indian Army, 13 Kumaon",1962,Yes,"1962 Sino-Indian War (Battle of Rezang La); led his company in an ultimate stand, inflicting heavy enemy casualties."
-Company Quartermaster Havildar Abdul Hamid,"Indian Army, 4 Grenadiers",1965,Yes,1965 Indo-Pak War (Battle of Asal Uttar); destroyed multiple Pakistani Patton tanks using a recoilless gun.
-Lieutenant Colonel Ardeshir Burzorji Tarapore,"Indian Army, 17 Poona Horse",1965,Yes,"1965 Indo-Pak War (Battle of Chawinda); led a magnificent tank battle, capturing vital enemy positions."
-Lance Naik Albert Ekka,"Indian Army, 14 Guards",1971,Yes,1971 Indo-Pak War (Battle of Hilli); charged and silenced an enemy machine gun bunker that halted the advance.
-Flying Officer Nirmal Jit Singh Sekhon,"Indian Air Force, No. 18 Squadron",1971,Yes,1971 Indo-Pak War (Srinagar Airfield); fought six Sabre aircraft single-handedly in a Gnat fighter.
-Second Lieutenant Arun Khetarpal,"Indian Army, 17 Poona Horse",1971,Yes,"1971 Indo-Pak War (Battle of Basantar); destroyed 10 enemy tanks in an epic tank duel, refusing to abandon his tank."
-Major Hoshiar Singh Dahiya,"Indian Army, 3 Grenadiers",1971,No,1971 Indo-Pak War (Battle of Basantar); held a captured position despite intense counter-attacks and injury.
-Naib Subedar Bana Singh,"Indian Army, 8 Jammu & Kashmir Light Infantry",1987,No,Siachen Glacier (Operation Rajiv); scaled a 1500-ft ice cliff to capture a strategic Pakistani post.
-Major Ramaswamy Parameswaran,"Indian Army, 8 Mahar",1987,Yes,"IPKF Mission (Sri Lanka); surrounded by militants, he successfully counter-attacked and disarmed them despite being shot."
-Captain Vikram Batra,"Indian Army, 13 JAK Rifles",1999,Yes,1999 Kargil War (Operation Vijay); displayed legendary bravery capturing Point 5140 and Point 4875 before passing away.
-Lieutenant Manoj Kumar Pandey,"Indian Army, 1/11 Gorkha Rifles",1999,Yes,1999 Kargil War (Operation Vijay); cleared multiple bunkers on Khalubar Hill under devastating fire.
-Rifleman Sanjay Kumar,"Indian Army, 13 JAK Rifles",1999,No,"1999 Kargil War (Operation Vijay); charged a machine gun nest, killed enemy soldiers, and used their weapons to secure Flat Top."
-Subedar Major Yogendra Singh Yadav,"Indian Army, 18 Grenadiers",1999,No,1999 Kargil War (Operation Vijay); scaled Tiger Hill and sustained multiple bullet wounds while silencing enemy bunkers.
+Name,Service/Unit,Year,Posthumous,Reason/Conflict,Year of Birth,AgeAtAward
+Major Somnath Sharma,"Indian Army, 4 Kumaon",1947,Yes,1947 Indo-Pak War (Battle of Badgam); displayed extreme bravery defending Srinagar airfield against heavy odds.,1923,24
+Naik Jadunath Singh,"Indian Army, 1 Rajput",1948,Yes,1947 Indo-Pak War (Tain Dhar); single-handedly held his post against multiple waves of attackers.,1916,32
+Second Lieutenant Rama Raghoba Rane,"Indian Army, Bombay Sappers",1948,No,1947 Indo-Pak War; cleared minefields and roadblocks under heavy enemy fire to aid advancing tanks.,1918,30
+Company Havildar Major Piru Singh,"Indian Army, 6 Rajputana Rifles",1948,Yes,1947 Indo-Pak War (Tithwal); destroyed enemy bunkers single-handedly despite being critically wounded.,1918,30
+Lance Naik Karam Singh,"Indian Army, 1 Sikh",1948,No,1947 Indo-Pak War (Tithwal); held out against overwhelming numbers despite being wounded multiple times.,1915,33
+Captain Gurbachan Singh Salaria,"Indian Army, 3/1 Gorkha Rifles",1961,Yes,Congo Crisis (UN Mission); launched a fierce charge to clear a vital roadblock against heavily armed rebels.,1935,26
+Major Dhan Singh Thapa,"Indian Army, 1/8 Gorkha Rifles",1962,No,1962 Sino-Indian War (Pangong Lake); repulsed three waves of intense attacks before being overpowered.,1928,34
+Major Shaitan Singh,"Indian Army, 13 Kumaon",1962,Yes,"1962 Sino-Indian War (Battle of Rezang La); led his company in an ultimate stand, inflicting heavy enemy casualties.",1924,38
+Company Quartermaster Havildar Abdul Hamid,"Indian Army, 4 Grenadiers",1965,Yes,1965 Indo-Pak War (Battle of Asal Uttar); destroyed multiple Pakistani Patton tanks using a recoilless gun.,1933,32
+Lieutenant Colonel Ardeshir Burzorji Tarapore,"Indian Army, 17 Poona Horse",1965,Yes,"1965 Indo-Pak War (Battle of Chawinda); led a magnificent tank battle, capturing vital enemy positions.",1923,42
+Lance Naik Albert Ekka,"Indian Army, 14 Guards",1971,Yes,1971 Indo-Pak War (Battle of Hilli); charged and silenced an enemy machine gun bunker that halted the advance.,1942,29
+Flying Officer Nirmal Jit Singh Sekhon,"Indian Air Force, No. 18 Squadron",1971,Yes,1971 Indo-Pak War (Srinagar Airfield); fought six Sabre aircraft single-handedly in a Gnat fighter.,1943,28
+Second Lieutenant Arun Khetarpal,"Indian Army, 17 Poona Horse",1971,Yes,"1971 Indo-Pak War (Battle of Basantar); destroyed 10 enemy tanks in an epic tank duel, refusing to abandon his tank.",1950,21
+Major Hoshiar Singh Dahiya,"Indian Army, 3 Grenadiers",1971,No,1971 Indo-Pak War (Battle of Basantar); held a captured position despite intense counter-attacks and injury.,1936,35
+Naib Subedar Bana Singh,"Indian Army, 8 Jammu & Kashmir Light Infantry",1987,No,Siachen Glacier (Operation Rajiv); scaled a 1500-ft ice cliff to capture a strategic Pakistani post.,1949,38
+Major Ramaswamy Parameswaran,"Indian Army, 8 Mahar",1987,Yes,"IPKF Mission (Sri Lanka); surrounded by militants, he successfully counter-attacked and disarmed them despite being shot.",1946,41
+Captain Vikram Batra,"Indian Army, 13 JAK Rifles",1999,Yes,1999 Kargil War (Operation Vijay); displayed legendary bravery capturing Point 5140 and Point 4875 before passing away.,1974,25
+Lieutenant Manoj Kumar Pandey,"Indian Army, 1/11 Gorkha Rifles",1999,Yes,1999 Kargil War (Operation Vijay); cleared multiple bunkers on Khalubar Hill under devastating fire.,1975,24
+Rifleman Sanjay Kumar,"Indian Army, 13 JAK Rifles",1999,No,"1999 Kargil War (Operation Vijay); charged a machine gun nest, killed enemy soldiers, and used their weapons to secure Flat Top.",1976,23
+Subedar Major Yogendra Singh Yadav,"Indian Army, 18 Grenadiers",1999,No,1999 Kargil War (Operation Vijay); scaled Tiger Hill and sustained multiple bullet wounds while silencing enemy bunkers.,1980,19
