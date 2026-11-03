@@ -83,8 +83,10 @@ Older records have missing fields and inconsistent spellings of names and states
 
 ```text
 .
+├── assets
+│   └── banner.png
 ├── datasets
-│   ├── cleaned_datasets       
+│   ├── cleaned_datasets
 │   ├── processed_datasets
 │   └── raw_datasets
 ├── moodleSubmissions
