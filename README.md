@@ -168,11 +168,16 @@ python -m pip install -r requirements.txt
 Activate the environment and start JupyterLab:
 
 ```bash
+# macOS / Linux / Git Bash
 source .venv/bin/activate
+
+# Windows PowerShell
+.venv\Scripts\Activate.ps1
+
 jupyter lab
 ```
 
-Open the notebooks and select the **Python (dai-project-007)** kernel. Run the cleaning notebook first, since the analysis notebooks read the processed datasets that it produces.
+Open the notebooks and select the `Python (DAI_PROJECT_007)` kernel. Run `<cleaning-notebook-name>.ipynb` first, since the analysis notebooks read the processed datasets it produces.
 
 When you are finished, leave the environment with:
 
