@@ -1,0 +1,5 @@
+Award,chi2,dof,p_value,reliable
+Bharat Ratna,5.748,5,0.3315352207581045,False
+Padma Vibhushan,13.561,6,0.03494487370981891,False
+Padma Bhushan,59.835,6,4.862301704940578e-11,True
+Padma Shri,89.645,6,3.58991293727426e-17,True
