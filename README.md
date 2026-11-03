@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="An Analysis of India's Civilian and Military Honours" width="100%" height = "30%">
 </p>
 
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Jupyter](https://img.shields.io/badge/notebooks-Jupyter-orange)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
