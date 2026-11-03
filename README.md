@@ -2,8 +2,6 @@
   <img src="./assets/banner.png" alt="An Analysis of India's Civilian and Military Honours" width="100%" height = "30%">
 </p>
 
-**Trends, Geography, and Demographics**
-
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Jupyter](https://img.shields.io/badge/notebooks-Jupyter-orange)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
