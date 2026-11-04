@@ -73,9 +73,9 @@ Older records have missing fields and inconsistent spellings of names and states
 | Cleaning of gallantry datasets | Complete |
 | Cleaning of civilian awards, 1954 to 1960 | Complete |
 | Cleaning of civilian awards after 1960 | Complete |
-| Exploratory analysis and visualisation | In progress |
-| Hypothesis testing | In progress |
-| Final report and presentation | Not started |
+| Exploratory analysis and visualisation | Complete |
+| Hypothesis testing | Complete |
+| Final report and presentation | In Progress |
 
 ## Directory Structure
 
@@ -85,28 +85,39 @@ Older records have missing fields and inconsistent spellings of names and states
 │   └── banner.png
 ├── datasets
 │   ├── cleaned_datasets
+│   │   ├── ashoka_chakra_cleaned.csv
+│   │   ├── cleaning.ipynb
+│   │   ├── national_awards_cleaned.csv
+│   │   └── param_vir_chakra_cleaned.csv
 │   ├── processed_datasets
+│   │   ├── ashoka_chakra_with_yob.csv
+│   │   ├── national_awards_with_yob.csv
+│   │   └── param_vir_chakra_with_yob.csv
 │   └── raw_datasets
+│       ├── ashoka_chakra.csv
+│       ├── national_awards.csv
+│       └── param_vir_chakra.csv
 ├── moodleSubmissions
 │   ├── checkpointOne.pdf
 │   └── Project_Proposal.pdf
 ├── q1
-│   ├── age_analysis.py
-│   ├── age_output
-│   ├── H0_analysis.ipynb
-│   ├── H1_analysis.ipynb
-│   ├── H2_analysis.ipynb
-│   ├── H3_analysis.ipynb
-│   ├── hypothesis_output
-│   ├── README.md
-│   ├── region_analysis.py
-│   └── region_output
+│   ├── age_summary_by_period.csv
+│   ├── age_test.csv
+│   ├── region_age_distribution.ipynb
+│   ├── region_counts_by_period.csv
+│   ├── region_percentages_by_period.csv
+│   └── region_test.csv
 ├── q2
 │   └── age and posthumous.ipynb
 ├── q3
 │   ├── distribution.ipynb
 │   ├── field_counts_by_decade.csv
 │   └── field_percentages_by_decade.csv
+├── q4
+│   ├── female_contribution.ipynb
+│   ├── gender_detect.py
+│   ├── gender_overrides.csv
+│   └── national_awards_cleaned.csv
 ├── README.md
 ├── requirements.txt
 └── setup.sh
@@ -191,7 +202,7 @@ deactivate
 | --------- | ------- |
 | Data handling | Pandas |
 | Statistics | SciPy (`scipy.stats`) |
-| Visualisation | Matplotlib, Seaborn, Plotly |
+| Visualisation | Matplotlib, Seaborn |
 | Notebooks | Jupyter |
 | Version control | Git, GitHub |
 
