@@ -1,6 +1,0 @@
-Scope,n,chi2,dof,p_value,cramers_v,reliable
-All civilian awards,4875,135.61,6,8.438834926903738e-27,0.167,True
-Bharat Ratna,48,5.75,5,0.3315352207581045,0.346,False
-Padma Vibhushan,321,13.56,6,0.03494487370981891,0.206,False
-Padma Bhushan,1281,59.83,6,4.862301704940578e-11,0.216,True
-Padma Shri,3225,89.65,6,3.58991293727426e-17,0.167,True
