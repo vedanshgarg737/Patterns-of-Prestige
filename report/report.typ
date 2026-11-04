@@ -38,7 +38,7 @@ We did not engange with any help (human) outside of our group and mentor for the
 
 == Video Presentation
 
-#link("gg")[Project Description Video]
+#link("https://drive.google.com/file/d/10G1O2w6m_Zq-gznUWVOona-b9vlFcZD6/view?usp=sharing")[Project Description Video]
 
 == Github Repository Link
 
