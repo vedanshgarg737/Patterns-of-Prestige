@@ -2,5 +2,4 @@
 .venv
 .vscode
 .git
-.ipynb_checkpoints
-__pycache__
+q1/.ipynb_checkpoints
