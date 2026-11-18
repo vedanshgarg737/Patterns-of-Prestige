@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Jupyter](https://img.shields.io/badge/notebooks-Jupyter-orange)
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Status](https://img.shields.io/badge/status-completed-brightgreen?logo=github&logoColor=white)      
 
 Team 007, Course Project, Data Analysis and Interpretation (DAI)
 
@@ -75,7 +75,7 @@ Older records have missing fields and inconsistent spellings of names and states
 | Cleaning of civilian awards after 1960 | Complete |
 | Exploratory analysis and visualisation | Complete |
 | Hypothesis testing | Complete |
-| Final report and presentation | In Progress |
+| Final report and presentation | Complete |
 
 ## Directory Structure
 
@@ -99,6 +99,7 @@ Older records have missing fields and inconsistent spellings of names and states
 │       └── param_vir_chakra.csv
 ├── moodleSubmissions
 │   ├── checkpointOne.pdf
+│   ├── final.pdf
 │   └── Project_Proposal.pdf
 ├── q1
 │   ├── age_summary_by_period.csv
@@ -111,14 +112,29 @@ Older records have missing fields and inconsistent spellings of names and states
 │   └── age and posthumous.ipynb
 ├── q3
 │   ├── distribution.ipynb
-│   ├── field_counts_by_decade.csv
-│   └── field_percentages_by_decade.csv
+│   ├── fieldCounts.csv
+│   └── fieldPercentages.csv
 ├── q4
+│   ├── awards_with_gender.csv
+│   ├── decade_field_women_awardees.csv
+│   ├── decade_women_awardees.csv
 │   ├── female_contribution.ipynb
 │   ├── gender_detect.py
 │   ├── gender_overrides.csv
-│   └── national_awards_cleaned.csv
-├── README.md
+│   ├── national_awards_cleaned.csv
+│   └── women_field_composition.csv
+├── readme.md
+├── report
+│   ├── assets
+│   │   ├── ageCompare.png
+│   │   ├── awardAge.png
+│   │   ├── fieldCompare.png
+│   │   ├── fieldShare.png
+│   │   ├── postHumous.png
+│   │   ├── region.png
+│   │   └── representation.png
+│   ├── report.pdf
+│   └── report.typ
 ├── requirements.txt
 └── setup.sh
 ```
